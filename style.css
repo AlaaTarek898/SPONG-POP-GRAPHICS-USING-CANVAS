@@ -1,0 +1,10 @@
+:root{
+      background-color: white;
+      --main-color:#458FF6;
+      font-family: Mulish
+};
+container{
+    width:80%;
+    margin: auto;
+    background-color: blue;
+}
